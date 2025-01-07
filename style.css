@@ -12,3 +12,10 @@ body {
     color: white;
     margin: 10px;
 }
+
+.recipe-title{
+    color: white;
+    background-color: rgb(66, 66, 66);
+    padding: 10px;
+}
+
